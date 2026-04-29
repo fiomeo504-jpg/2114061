@@ -1,0 +1,45 @@
+
+---
+
+## 📁 Файл 3: `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+*.py~
+
+
+# Файл с историей (у каждого своя)
+tasks.json
+
+# Редакторы кода
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Логи
+*.log
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
