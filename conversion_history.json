@@ -1,0 +1,26 @@
+[
+    {
+        "timestamp": "2026-04-30 15:30:22",
+        "amount": 100,
+        "from_currency": "USD",
+        "to_currency": "EUR",
+        "result": 91.50,
+        "rate": 0.9150
+    },
+    {
+        "timestamp": "2026-04-30 15:28:45",
+        "amount": 5000,
+        "from_currency": "RUB",
+        "to_currency": "USD",
+        "result": 58.82,
+        "rate": 0.01176
+    },
+    {
+        "timestamp": "2026-04-30 15":25:10",
+        "amount": 250,
+        "from_currency": "EUR",
+        "to_currency": "GBP",
+        "result": 213.75,
+        "rate": 0.8550
+    }
+]
